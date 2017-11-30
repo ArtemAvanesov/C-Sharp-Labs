@@ -1,0 +1,18 @@
+G:\Прогрммирование\1\1\bin\Debug\1.exe
+G:\Прогрммирование\1\1\bin\Debug\1.pdb
+G:\Прогрммирование\1\1\obj\x86\Debug\1.exe
+G:\Прогрммирование\1\1\obj\x86\Debug\1.pdb
+G:\Прогрммирование\1+\1\obj\x86\Debug\1.exe
+G:\Прогрммирование\1+\1\obj\x86\Debug\1.pdb
+G:\ПРОГРАММЫ!!!!!!!!!!!\Флешка\Прогрммирование\1+\1\obj\x86\Debug\1.exe
+G:\ПРОГРАММЫ!!!!!!!!!!!\Флешка\Прогрммирование\1+\1\obj\x86\Debug\1.pdb
+J:\3-й семестр\Прогрммирование\1+\1\obj\x86\Debug\1.exe
+J:\3-й семестр\Прогрммирование\1+\1\obj\x86\Debug\1.pdb
+G:\ЮФУ\3-й семестр\Программирование\1+\1\obj\x86\Debug\1.exe
+G:\ЮФУ\3-й семестр\Программирование\1+\1\obj\x86\Debug\1.pdb
+C:\Users\Артем\Desktop\C#\C-Sharp-SFEDU-SAU\C# (Visual Studio projects)\1+\1\obj\x86\Debug\1.exe
+C:\Users\Артем\Desktop\C#\C-Sharp-SFEDU-SAU\C# (Visual Studio projects)\1+\1\obj\x86\Debug\1.pdb
+C:\Users\Артем\Desktop\C#\C-Sharp-SFEDU-SAU\C# (Visual Studio projects)\1+\1\bin\Debug\1.exe
+C:\Users\Артем\Desktop\C#\C-Sharp-SFEDU-SAU\C# (Visual Studio projects)\1+\1\bin\Debug\1.pdb
+C:\Users\Артем\Desktop\C#\C-Sharp-SFEDU-SAU\C# (Visual Studio projects)\1\1\obj\x86\Debug\1.exe
+C:\Users\Артем\Desktop\C#\C-Sharp-SFEDU-SAU\C# (Visual Studio projects)\1\1\obj\x86\Debug\1.pdb
