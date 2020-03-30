@@ -18,9 +18,9 @@
 11) Дано целое число N (> 1). Вывести по порядку все нечетные числа, начиная с 1, которые меньше N. Реализовать CATCH.
 12) В одномерном массиве, состоящем из п вещественных элементов, вычислить:сумму отрицательных элементов массива; произведение элементов массива, расположенных между максимальным и минимальным элементами. Упорядочить элементы массива по возрастанию.
 13) Напишите программу для расчета по формуле: 
-![Image alt](https://github.com/ArtemAvanesov/C-Sharp-Labs/raw/master/1_курс/13/image_13_Function.JPG)
+![Image alt](https://github.com/ArtemAvanesov/C-Sharp-Labs/raw/master/1_курс/13_Function/image_13.JPG)
 14) Напишите программу для расчета по формуле: 
-![Image alt](https://github.com/ArtemAvanesov/C-Sharp-Labs/raw/master/1_курс/14/image_14_Function.JPG)
+![Image alt](https://github.com/ArtemAvanesov/C-Sharp-Labs/raw/master/1_курс/14_Function/image_14.JPG)
 15) Дана длина окружности. Найти площадь круга, ограниченного этой окружностью.
 
 Литература:
